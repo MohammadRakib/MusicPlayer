@@ -15,4 +15,11 @@ This is a native android app.
 * [Last Played Song Save](#last-played-song-save)
 * [Equalizer](#equalizer)
 * [Playlist](#playlist)
-* 
+
+## Features details with screenshots
+
+### Load All Music from device
+
+<img src="ss/Screenshot_2021-10-12-21-58-00.png" width="230" height="400">
+
+
