@@ -22,4 +22,13 @@ This is a native android app.
 
 <img src="ss/Screenshot_2021-10-12-21-58-00.png" width="230" height="400">
 
+### Play Music
+
+<img align="left" src="ss/Screenshot_2021-10-12-21-58-19.png" width="230" height="400">
+<img align="left" src="ss/Screenshot_2021-10-12-21-59-26.png" width="230" height="400">
+<img src="ss/Screenshot_2021-10-12-21-59-33.png" width="230" height="400">
+
+
+
+
 
