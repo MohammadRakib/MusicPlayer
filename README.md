@@ -41,11 +41,11 @@ This app support playing music in the background
 
 When app is opened again it shows in the bottom that, which song is played last time
 
-<img align="left" src="ss/Screenshot_2021-10-12-21-58-00.png" width="230" height="400">
+<img src="ss/Screenshot_2021-10-12-21-58-00.png" width="230" height="400">
 
 ### Equalizer
 
-<img align="left" src="ss/Screenshot_2021-10-12-22-01-32.png" width="230" height="400">
+<img src="ss/Screenshot_2021-10-12-22-01-32.png" width="230" height="400">
 
 ### Playlist
 
