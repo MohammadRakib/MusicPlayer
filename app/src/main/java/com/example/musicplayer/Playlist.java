@@ -62,7 +62,7 @@ public class Playlist extends Fragment {
         loadplaylistfolder();  //loading playlist
         playlistadapter = new ArrayAdapter<>(context, R.layout.playlist_row,R.id.foldername,playlistname);
         folderlist.setAdapter(playlistadapter);
-        if(playlistname!=null){
+        if(playlistname!=null && playlistname.size() != 0){
             String playlistName=playlistname.get(0);
             viewModel.findlist(playlistName);
         }
