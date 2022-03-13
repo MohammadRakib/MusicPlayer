@@ -38,7 +38,9 @@ This app support playing music in the background
 <img src="ss/Screenshot_2021-10-12-22-03-22.png" width="230" height="400">
 
 ### Last Played Song Save
+
 When app is opened again it shows in the bottom which song is played last time
+
 <img align="left" src="ss/Screenshot_2021-10-12-21-58-00.png" width="230" height="400">
 
 ### Equalizer
