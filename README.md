@@ -28,6 +28,14 @@ This is a native android app.
 <img align="left" src="ss/Screenshot_2021-10-12-21-59-26.png" width="230" height="400">
 <img src="ss/Screenshot_2021-10-12-21-59-33.png" width="230" height="400">
 
+### Background Music Play Support
+This app support playing music in the background
+
+### Foreground Music Play Control
+<img align="left" src="ss/Screenshot_2021-10-12-21-59-49.png" width="230" height="400">
+<img align="left" src="ss/Screenshot_2021-10-12-22-03-09.png" width="230" height="400">
+<img src="ss/Screenshot_2021-10-12-22-03-22.png" width="230" height="400">
+
 
 
 
