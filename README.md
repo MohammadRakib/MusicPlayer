@@ -36,6 +36,28 @@ This app support playing music in the background
 <img align="left" src="ss/Screenshot_2021-10-12-22-03-09.png" width="230" height="400">
 <img src="ss/Screenshot_2021-10-12-22-03-22.png" width="230" height="400">
 
+### Last Played Song Save
+When app is opened again it shows in the bottom which song is played last time
+<img src="ss/Screenshot_2021-10-12-21-58-00.png" width="230" height="400">
+
+### Equalizer
+
+<img src="ss/Screenshot_2021-10-12-22-01-32.png" width="230" height="400">
+
+### Playlist
+
+<img align="left" src="ss/Screenshot_2021-10-12-21-59-01.png" width="230" height="400">
+<img align="left" src="ss/Screenshot_2021-10-12-21-59-59.png" width="230" height="400">
+<img align="left" src="ss/Screenshot_2021-10-12-22-00-12.png" width="230" height="400">
+<img align="left" src="ss/Screenshot_2021-10-12-22-00-21.png" width="230" height="400">
+<img align="left" src="ss/Screenshot_2021-10-12-22-00-39.png" width="230" height="400">
+<img align="left" src="ss/Screenshot_2021-10-12-22-02-02.png" width="230" height="400">
+<img align="left" src="ss/Screenshot_2021-10-12-22-02-07.png" width="230" height="400">
+
+
+
+
+
 
 
 
